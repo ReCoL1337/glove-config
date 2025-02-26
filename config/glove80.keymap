@@ -397,11 +397,11 @@
         layer_Base {
             bindings = <
                &kp F1     &kp F2            &kp F3            &kp F4             &kp F5                                                                                  &kp F6           &kp F7            &kp F8            &kp F9            &kp F10
-              &kp END     &kp num_1_excl    &kp num_2_lbkt    &kp num_3_lbrc     &kp num_4_lpar  &kp num_5_prcnt                                                         &kp num_6_caret  &kp num_7_rpar    &kp num_8_rbrc    &kp num_9_rbkt    &kp num_0_star   &kp HOME
+              &kp END     &num_1_excl    &num_2_lbkt    &num_3_lbrc     &num_4_lpar  &num_5_prcnt                                                         &num_6_caret  &num_7_rpar    &num_8_rbrc    &num_9_rbkt    &num_0_star   &kp HOME
               &kp TAB     &kp Q             &kp W             &kp E              &kp R           &kp T                                                                   &kp Y            &kp U             &kp I             &kp O             &kp P            &kp BSLH
               &kp ESC     &kp A             &kp S             &kp D              &kp F           &kp G                                                                   &kp H            &kp J             &kp K             &kp L             &kp SEMI         &kp SQT
             &kp GRAVE     &kp Z             &kp X             &kp C              &kp V           &kp B  &kp LSHFT  &kp LCTRL    &lower  &kp LGUI  &kp RCTRL  &kp RSHFT   &kp N            &kp M             &kp COMMA         &kp DOT           &kp FSLH         &kp PG_UP
- &magic LAYER_Magic 0  &kp MINUS  &kp EQUAL  &kp LEFT  &kp RIGHT          &kp SPACE    &kp DEL  &kp LALT  &kp RALT   &kp BSPC    &kp RET          &kp UP   &kp DOWN  &kp at_hash  &kp dllr_amps  &kp PG_DN
+ &magic LAYER_Magic 0  &kp MINUS  &kp EQUAL  &kp LEFT  &kp RIGHT          &kp SPACE    &kp DEL  &kp LALT  &kp RALT   &kp BSPC    &kp RET          &kp UP   &kp DOWN  &at_hash  &dllr_amps  &kp PG_DN
             >;
         };
 
